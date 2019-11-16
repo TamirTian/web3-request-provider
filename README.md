@@ -1,2 +1,8 @@
 # web3-request-provider
-TODO Add Retryable Request
+```js
+npm install web3-request-provider 
+```
+or
+```js
+yarn add web3-request-provider
+```
